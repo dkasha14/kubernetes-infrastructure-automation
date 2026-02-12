@@ -19,7 +19,7 @@ spec:
         app: application1
     spec:
       containers:
-      - image: shan5a6/application1
+      - image: dkasha14/application1
         name: application1
         resources: {}
 status: {}
